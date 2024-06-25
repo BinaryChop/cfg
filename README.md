@@ -1,5 +1,5 @@
 # CSGO-CFG
-Configs for csgo 
+Configs for Counter-Strike (source2)
 
 #Streamers: 
 
