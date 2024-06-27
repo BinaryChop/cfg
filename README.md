@@ -1,5 +1,9 @@
-# CSGO-CFG
-Configs for Counter-Strike (source2)
+# Counterstike-CFG
+Configs for counterstrike (source2)
+
+
+# Cvarlist (27.06.2024)
+
 
 #Streamers: 
 
