@@ -3,7 +3,7 @@ Configs for counterstrike (source2)
 
 
 # Cvarlist (27.06.2024)
-
+[a relative link](cvarlist.md)
 
 #Streamers: 
 
